@@ -43,6 +43,9 @@ Se você ainda não tem uma GPU pode usar o suporte da `thrust` para OpenMP nas 
     * `-fopenmp`: já conhecemos este ;)
     * `-x c++`: força a compilação de arquivos `.cu` como código fonte C++
 
+Eventualmente seu compilador pode pedir a seguinte linha para compilar:
+`nvcc -Xcompiler -fopenmp`
+
 !!! example
     Verifique que sua instalação funciona compilando o arquivo abaixo.
 
