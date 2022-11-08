@@ -40,8 +40,8 @@ nav:
         - "12, 13 e 14 - Paralelismo": aulas/12-13-14-paralelismo/index.md
         - "15 - Paralelismo - Exercício / Efeitos Colaterais" : aulas/15-efeitos-colaterais/index.md
         - "16 - Paralelismo - Efeitos Colaterais II":  aulas/16-efeitos-colaterais-II/index.md
-        - "17 - GPU - Introdução":  aulas/17-intro-gpu/index.md
-        # - "17 - GPU - Iteradores": aulas/15-gpu-iteradores/index.md
+        - "17 e 18 - GPU - Introdução":  aulas/17-18-intro-gpu/index.md
+        - "19 - GPU - Iteradores": aulas/19-gpu-iteradores/index.md
         # - "18 - GPU - Customização": aulas/16-gpu-customizacao/index.md
         # - "19 - GPU - Aleatoriedade": aulas/17-gpu-aleatoriedade/index.md
         

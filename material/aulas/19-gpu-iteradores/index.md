@@ -1,4 +1,4 @@
-# 18 - Iteradores em Thrust
+# 19 - Iteradores em Thrust
 
 Na última aula conseguimos rodar algumas funções em GPU e medir o custo de transferência de dados. Chegamos a conclusão de que, para valer a pena usar a GPU, ou precisamos tratar muitos dados ou precisamos fazer tratamentos pesados.
 
