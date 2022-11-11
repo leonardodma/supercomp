@@ -27,6 +27,11 @@ struct saxpy
     }
 };
 
+__host__ static __inline__ int rand_10()
+{
+    return ((int) rand()/(RAND_MAX/10));
+}
+
 int main(int argc, char* argv[]) {
      if (argc != 3) {
          cerr <<
@@ -41,8 +46,8 @@ int main(int argc, char* argv[]) {
      thrust::host_vector<int> a(n);
      thrust::host_vector<int> b(n);
      thrust::host_vector<int> c(n);
-     thrust::generate(a.begin(), a.end(), rand);
-     thrust::generate(b.begin(), b.end(), rand);
+     thrust::generate(a.begin(), a.end(), rand_10);
+     thrust::generate(b.begin(), b.begin(), rand_10);
 
      //transferimos para a GPU
      thrust::device_vector<int> d_a = a;
