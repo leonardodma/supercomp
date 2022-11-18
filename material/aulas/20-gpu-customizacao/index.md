@@ -47,7 +47,7 @@ int main(int argc, char* argv[]) {
      thrust::host_vector<int> b(n);
      thrust::host_vector<int> c(n);
      thrust::generate(a.begin(), a.end(), rand_10);
-     thrust::generate(b.begin(), b.begin(), rand_10);
+     thrust::generate(b.begin(), b.end(), rand_10);
 
      //transferimos para a GPU
      thrust::device_vector<int> d_a = a;
@@ -56,7 +56,7 @@ int main(int argc, char* argv[]) {
      //transformacao
      
      thrust::transform(d_a.begin(), d_a.end(),
-                       d_b.begin(), d_b.end(),
+                       d_b.begin(), d_b.begin(),
                        saxpy(m));
     
      thrust::copy(d_b.begin(), d_b.end(),

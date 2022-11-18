@@ -1,4 +1,4 @@
-# 17 - GPU e números aleatórios
+# 21 - GPU e números aleatórios
 
 ## Revisão de números aleatórios
 

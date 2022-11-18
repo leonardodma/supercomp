@@ -12,11 +12,11 @@ As perguntas são relativamente abertas, então seu trabalho será bolar um conj
 
 ## Entrega
 
-O relatório deverá ser entregue em um Jupyter Notebook seguindo as ideias da [aula 11](/aulas/11-introducao-paralelismo). Seu trabalho deverá conter
+O relatório deverá ser entregue em um Jupyter Notebook ou em PDF. Seu trabalho deverá conter:
 
 - [ ] seção de *Introdução* citando os testes feitos
 - [ ] uma seção para cada pergunta acima. O título da seção deverá ser a pergunta a ser respondida. Você deverá iniciar dizendo sua resposta para a pergunta e depois mostrar experimentos que apoiem sua resposta.
 - [ ] para cada seção você deverá incluir uma tabela com os dados brutos dos seus testes e pelo menos um gráfico que apoie sua resposta para a pergunta.
 - [ ] todo gráfico deverá ser acompanhado de um parágrafo explicando seu conteúdo e o contextualizando em sua resposta. 
 
-A data de entrega será **25/11**. Seu trabalho será corrigido até **02/12**. Se ele estiver abaixo dos critérios mínimos de aceite você deverá entregar uma nova versão até **04/12**. Nesse caso sua nota final será diminuida de 1 ponto. Ou seja, para ser aprovado terá que fazer além do básico mais alguns dos itens da parte de desempenho. 
+A data de entrega será **1/12**. 

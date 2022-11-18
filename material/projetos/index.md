@@ -70,7 +70,7 @@ As etapas do projeto serão disponibilizadas depois de discussões em sala de au
 [//]: # (* Atividade 4 - [implementações sequenciais eficientes](desempenho-sequencial):)
 * Atividade 4 - [paralelismo multi-core](multi-core): [__Entrega__: _Sugerida 25/10_; _Máxima 1/12_]
 * Atividade 5 - [paralelismo em GPU](gpu): [__Entrega__: _Sugerida 15/11_; _Máxima 1/12_]
-[//]: # (* Atividade 6 - [comparações de desempenho](relatorio):)
+* Atividade 6 - [comparações de desempenho](relatorio): _Sugerida 25/11_; _Máxima 1/12_]
 [//]: # (* Atividade 7 - [medição final de desempenho](desempenho-final):)
 [//]: # ()
 
